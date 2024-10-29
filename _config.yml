@@ -1,11 +1,11 @@
 # Configs
 
-title: "Jekyll Profile"
-name: "A Free Job Market Profile in Jekyll"
+title: "Ethan's Profile"
+name: "My Github template practice website"
 email: 
-url: "https://econ-691.github.io"
-baseurl: "/Jekyll-for-Job-Market"
-repository: "ECON-691/Jekyll-for-Job-Market"
+url: "https://Z1861633.github.io"
+baseurl: "/Ethan-Anderson-Github-Template"
+repository: "Z1861633/Ethan-Anderson-Github-Template"
 header:
   image: /assets/images/banner-husky.jpg
 
